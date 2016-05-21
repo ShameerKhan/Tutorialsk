@@ -1,0 +1,80 @@
+body {
+	background-color:#f2f2f2;
+}
+/*previous was #1094d1*/
+h1 {
+	text-align: center;
+	font-family: Arial;
+	font-size: 2.5em;
+	color:#94d110;
+	margin: 0;
+}
+
+h1 span {
+	color: #d14e10;
+}
+
+#topmenu {
+	height: 5px;
+	width: 95%;
+	background-color: #4A1898;
+	margin: auto;
+}
+
+table {
+	border-width: 2px;
+	width:100%;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+td {
+	font-size: 40px;
+	font-family: sans-serif;
+	color: red;
+	border-style: solid;
+	line-height: 1em;
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+}
+
+#Home {
+	border-left: none;
+}
+
+#infobox {
+	width: 300px;
+	height: 600px;
+	font-size: 27px;
+	font-family: Verdana;
+	background-color: #e6e6e6;
+	border-style: solid;
+	border-color: black;
+	position: absolute;
+	top: 30%;
+	right: 7.5%;
+}
+
+div span {
+	color: #94d110;
+}
+
+div a {
+	text-decoration: none;
+}
+
+#Header {
+	width:250px;
+	height:150px;
+	background-color: #0B8C7A;
+	font-size:90px;
+	font-family: cursive;
+	border-radius: 25px;
+	margin-top: 2%;
+}
+
+p {
+	font-family: Tahoma;
+	font-size: 20px;
+}
